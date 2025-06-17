@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiEstoque", "ApiEstoque\ApiEstoque.csproj", "{CABEC684-048F-4488-8420-A50C679FDD46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABEC684-048F-4488-8420-A50C679FDD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABEC684-048F-4488-8420-A50C679FDD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABEC684-048F-4488-8420-A50C679FDD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABEC684-048F-4488-8420-A50C679FDD46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6BE9943-7F54-4DE9-B9FB-9B0E1C83CA57}
+	EndGlobalSection
+EndGlobal
